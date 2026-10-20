@@ -14,6 +14,31 @@ Students use this repository to:
 
 Course website: [SCST1133 Data Engineering Ecosystem](https://drshahizan.github.io/scst1133/)
 
+## Exercises
+
+Complete the exercises in sequence. Each exercise introduces the skills required for the next activity.
+
+| Exercise | Title | Main Skills |
+|---:|---|---|
+| 1 | [Star and Fork the Repository](exercises/exercise-01-star-and-fork.md) | Star a repository, create a fork and distinguish between the original repository and a fork |
+| 2 | [Create a README and Upload Files](exercises/exercise-02-repository-and-files.md) | Create a repository, edit a README, create folders, upload files and review commits |
+| 3 | [Hello World and Markdown](exercises/exercise-03-hello-world-markdown.md) | Use headings, lists, tables, links, images, task lists and code blocks in Markdown |
+
+Open the [SCST1133 Exercise Index](exercises/README.md) to view the complete learning sequence and general requirements.
+
+### Exercise Completion
+
+Before completing an exercise, students should:
+
+1. read the complete exercise instructions;
+2. follow the required naming conventions;
+3. produce all required evidence;
+4. answer the reflection questions;
+5. complete the exercise checklist; and
+6. test all submitted files and links.
+
+> Exercise 1 does not require a Pull Request. Instructions for Pull Request submission will be introduced after students understand repositories, files, commits and Markdown.
+
 ## Submission Workflow
 
 1. Fork this repository.
@@ -84,9 +109,11 @@ Use the [exercise submission template](templates/exercise-template.md).
 Faculty of Computing, Universiti Teknologi Malaysia
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/database/issues) for any improvements, suggestions or errors in the content.
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+Please create an [Issue](https://github.com/drshahizan/scst1133/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me through [LinkedIn](https://www.linkedin.com/in/drshahizan/) for other enquiries or feedback.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
